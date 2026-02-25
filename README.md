@@ -1,12 +1,15 @@
-<h2 align="left">Hi their 👋!, I'm Vinayak</h2>
+<div style="background-color:red">
+<h2 align="left">Hi their!, I'm Vinayak</h2>
 <h3 align="left">I am Vinayak, a passionate Fullstack Developer and AI-ML enthusiast from India</h3>
 
-- ⚡ **Why was the computer cold? Because it left its Windows open! 🖥️❄️**
+**Why was the computer cold? Because it left its Windows open! **
 
 ###
 <div align="center" style="display:flex;justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=ViKing-Coder-jpg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
 <img height="150" src="https://media.tenor.com/0H9R1qgGB8IAAAAM/sukuna-jujutsu-kaisen.gif"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViKing-Coder-jpg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -73,3 +76,4 @@
 <img align="left" src="https://raw.githubusercontent.com/ViKing-Coder-jpg/ViKing-Coder-jpg/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
