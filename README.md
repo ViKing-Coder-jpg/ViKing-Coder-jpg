@@ -1,79 +1,60 @@
-<div style="background-color:red">
-<h2 align="left">Hi their!, I'm Vinayak</h2>
-<h3 align="left">I am Vinayak, a passionate Fullstack Developer and AI-ML enthusiast from India</h3>
+<!-- =============================== -->
+<!--        ULTRA HEADER             -->
+<!-- =============================== -->
 
-**Why was the computer cold? Because it left its Windows open! **
+<p align="center">
+  <img src="sukuna-banner.png" width="100%" />
+</p>
 
-###
-<div align="center" style="display:flex;justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViKing-Coder-jpg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
-<img height="150" src="https://media.tenor.com/0H9R1qgGB8IAAAAM/sukuna-jujutsu-kaisen.gif"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViKing-Coder-jpg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">👑 ViKing-Coder-jpg</h1>
+<h3 align="center">Special Grade Full Stack Sorcerer ⚡ Dark Purple Energy</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Domain+Expansion+Activated;Full+Stack+Sorcerer;AI+%2F+ML+Specialist;React+%7C+Next.js+%7C+DevOps;Unlimited+Coding+Void" />
+</p>
 
+---
 
-###
+# 🔥 CURSED ENERGY STATS
 
-<h3 align="left">Have experiance in the following Tech Stacks:</h3>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViKing-Coder-jpg&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=8A2BE2&icon_color=8A2BE2"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViKing-Coder-jpg&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViKing-Coder-jpg&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=8A2BE2"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
+---
 
-###
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+# 🧠 TECHNIQUES & ABILITIES
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,react,nextjs,tailwind,fastapi,express,mongodb,mysql,supabase,docker,kubernetes,pytorch,tensorflow,pandas,numpy,git,bash,vercel,netlify,render,railway" />
+</p>
 
-<br clear="both">
+---
 
+# 🔵 GOJO SATORU — POKÉMON STYLE STAT CARD
 
-<img align="left" src="https://raw.githubusercontent.com/ViKing-Coder-jpg/ViKing-Coder-jpg/output/snake.svg" alt="Snake animation" />
+```txt
+═══════════════════════════════════════
+🔵 GOJO SATORU
+The Strongest Developer
 
-###
-</div>
+Type: Frontend / AI / DevOps
+HP: ∞
+Attack: 999
+Defense: 999
+Speed: 999
+Cursed Energy: Unlimited
+
+Signature Move:
+Unlimited Void — Deploys production
+without fear. Bugs cannot approach.
+
+Passive:
+Infinity Shield — Production protected
+by clean architecture & type safety.
+═══════════════════════════════════════
