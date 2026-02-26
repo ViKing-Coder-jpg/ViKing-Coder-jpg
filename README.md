@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="sukuna-banner.gif" width="100%" />
 </p>
@@ -14,11 +15,20 @@
 </p>
 
 ---
+#  Connect
 
-## 🔥 Github Stats
+<p align="center">
+  <a href="https://github.com/ViKing-Coder-jpg">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+# Github Stats
 
 <table>
-<tr>
+<tr height="100%">
 <td width="60%">
 
 <!-- 🔥 Contribution Graph -->
@@ -42,7 +52,7 @@
 
 <td width="40%" align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="side image.gif" width="100%" />
 
 </td>
 </tr>
@@ -50,24 +60,13 @@
 
 ---
 
-# 🧠 TECHNIQUES & ABILITIES
+# TECHNIQUES & ABILITIES
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,react,nextjs,tailwind,fastapi,express,mongodb,mysql,supabase,docker,kubernetes,pytorch,tensorflow,git,bash,vercel,netlify,render,railway,numpy" />
 </p>
 
----
-
-# 🔴 Connect
 
 <p align="center">
-  <a href="https://github.com/ViKing-Coder-jpg">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-🩸 MALEVOLENT SHRINE ACTIVATED
+🩸 DOMAIN EXPANSION - MALEVOLENT SHRINE ACTIVATED
 </p>
